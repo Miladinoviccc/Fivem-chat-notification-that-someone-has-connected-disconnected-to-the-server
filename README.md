@@ -2,7 +2,7 @@
 
 
                          
-                            i made this notification in the chat to know when someone logged in / out of the server
+                            i made this simpe script for notification in the chat to know when someone logged in / out of the server
                             
                             
                             
